@@ -30,6 +30,11 @@ body {
        url('fonts/font.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
 } 
 
+.image2{
+  height: 50%!important;
+  width: 50%!important;
+}
+
 .newfont{
   font-family: 'NewFont', 'Arial';
 }
